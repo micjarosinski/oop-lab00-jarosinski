@@ -8,7 +8,7 @@
 - Wersje java i javac:
 openjdk 25.0.4.1
 javac 25.0.4.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): ...
+- Link do pierwszego PR (uzupełnij w zadaniu 5): https://github.com/micjarosinski/oop-lab00-jarosinski/pull/1
 
 ## Uruchomienie lokalne
 Wynik programu C++:
