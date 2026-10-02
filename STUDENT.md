@@ -17,10 +17,14 @@ Wynik programu Java:
 Hello from Java! Author: Michał Jarosiński
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Krótki fragment komunikatu błędu i numer linii:
+cpp/main.cpp: In function ‘int main()’:
+cpp/main.cpp:5:69: error: expected ‘;’ before ‘return’
+- Przyczyna oraz sposób naprawy:
+przyczyna: brak średnika na końcu linii
+sposób naprawy: dodanie średnika na końcu linii
+- Commit z błędem (SHA lub link): 50e70bd
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push?
